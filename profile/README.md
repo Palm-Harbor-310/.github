@@ -5,7 +5,7 @@ The main goal of these projects is to automate and streamline various tasks rela
 
 ## Projects
 
-- **Address Lookup**: This project consists of Python scripts that use Google Geocoding API and Google Places API to lookup county and zip code information using partial address information. The scripts take a CSV file as input and output a CSV file with the updated address information.
+- **Address Lookup**: This project consists of Python scripts that use Google Geocoding API and Google Places API to lookup county and zip code information using partial address information. The scripts take an .xlsx file as input and output a new .xlsx file with the updated address information.
 
 - **Purchase Order Data Entry**: This project consists of Python scripts that use Azure Form Recognizer API to automate purchase order data entry from scanned PDF files. The scripts also use Excel VBA to clean and format the data before importing it into a database.
 
